@@ -38,3 +38,6 @@ No installation. No accounts. No cloud.
 **Download the latest release → Run CraftKit.exe → Start inspecting.**
 
 https://github.com/htoklu/CraftKit/releases/tag/v1.0
+
+<img width="1193" height="823" alt="image" src="https://github.com/user-attachments/assets/44bd5f60-0a78-4397-ad2d-474e75092fcf" />
+
